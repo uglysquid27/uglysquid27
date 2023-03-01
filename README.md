@@ -19,7 +19,7 @@
 ### 💻 Github Statistic
 <p align="center">
   <a href="https://github.com/EnvyL27">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvyL27&theme=tokyonight&hide_border=true" alt="Ahmad Farrel's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvyL27&theme=dracula&locale=en&hide_border=false" alt="Ahmad Farrel's GitHub streak"/>
   </a>
 </p>
 <a> 
