@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-//![Profile views](https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27)
+<!-- ![Profile views](https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27) -->
 
 <div size='20px'> Hi! My name is Ahmad Farrel.
 </div>
