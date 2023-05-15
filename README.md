@@ -11,7 +11,7 @@
 - 🏫 Student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
 - 🌱 Currently internship at [Pt. Amerta Indah Otsuka](https://www.aio.co.id/).
 
-
+<!--
 ### 🔗 Connect with Me
 <p align="left">
 <a href="https://instagram.com/wintereveee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -26,4 +26,4 @@
   <a href="https://github.com/EnvyL27"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EnvyL27&show_icons=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="192px" width="49.5%"/></a>
   <a href="https://github.com/EnvyL27"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnvyL27&langs_count=8&layout=compact&theme=dracula&locale=en&hide_border=false" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a>-->
