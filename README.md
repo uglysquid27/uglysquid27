@@ -10,6 +10,7 @@
 ### 💬 About Me
 - 🏫 Student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
 - 🌱 Currently internship at [Pt. Amerta Indah Otsuka](https://www.aio.co.id/).
+- 🕸️ Go visit my website [My website](https://farrel-portfolio.vercel.app/)
 
 <!--
 ### 🔗 Connect with Me
