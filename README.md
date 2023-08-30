@@ -1,10 +1,10 @@
-<h1> Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, Welcome to my GitHub Profile ! </h1>
+<h1> Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, Welcome to my GitHub ! </h1>
 <p align='center'>
 </p>
 
 <!-- ![Profile views](https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27) -->
 
-<div size='20px'> Hi! My name is Ahmad Farrel.
+<div size='20px'> My name is Ahmad Farrel, a student, gamer and sleep enthusiast
 </div>
 
 ### 💬 About Me
