@@ -4,7 +4,7 @@
 
 <!-- ![Profile views](https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27) -->
 
-<div size='20px'> My name is Ahmad Farrel, a student, gamer and sleep enthusiast
+<div size='20px'> My name is Ahmad Farrel, a developer, gamer and sleep enthusiast
 </div>
 
 ### 💬 About Me
