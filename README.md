@@ -10,7 +10,7 @@
 ### 💬 About Me
 - 🏫 Alumni from [State Polytechnic of Malang](http://jti.polinema.ac.id/).
 <!-- - 🌱 Alumni internship from [Pt. Amerta Indah Otsuka](https://www.aio.co.id/). -->
-- 🕸️ Go visit my website [My website]([uglysquid.my.id](https://uglysquid.my.id))
+- 🕸️ Go visit my website [My website](https://uglysquid.my.id)
 
 <!--
 ### 🔗 Connect with Me
