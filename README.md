@@ -8,9 +8,9 @@
 </div>
 
 ### 💬 About Me
-- 🏫 Student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
+- 🏫 Alumni from [State Polytechnic of Malang](http://jti.polinema.ac.id/).
 <!-- - 🌱 Alumni internship from [Pt. Amerta Indah Otsuka](https://www.aio.co.id/). -->
-- 🕸️ Go visit my website [My website](https://farrel-portfolio.vercel.app/)
+- 🕸️ Go visit my website [My website](uglysquid.my.id)
 
 <!--
 ### 🔗 Connect with Me
