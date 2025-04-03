@@ -1,7 +1,7 @@
 <h1> Oh Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
- 
+  
 <!-- ![Profile views](https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27) -->
  
 <div size='20px'> I'm Ahmad Farrel, a developer, gamer and sleep enthusiast
