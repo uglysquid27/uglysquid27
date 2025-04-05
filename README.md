@@ -5,7 +5,7 @@
 <!-- ![Profile views](https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27) -->
  
 <div size='20px'> I'm Ahmad Farrel, a developer, gamer and sleep enthusiast
-</div>
+</div> 
  
 ### 💬 About Me
 - 🏫 Alumni from [State Polytechnic of Malang](http://jti.polinema.ac.id/).
