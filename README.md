@@ -7,8 +7,7 @@
 <div size='20px'> I'm Ahmad Farrel, a developer, gamer and sleep enthusiast
 </div> 
  
-### 💬 About Me
-- 🏫 Alumni from [State Polytechnic of Malang](http://jti.polinema.ac.id/).
+### 💬 My Portfolio
 <!-- - 🌱 Alumni internship from [Pt. Amerta Indah Otsuka](https://www.aio.co.id/). -->
 - 🕸️ Go visit my website [My website](https://ahmadfarrel.my.id)
 
