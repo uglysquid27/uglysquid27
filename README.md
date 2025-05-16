@@ -21,33 +21,12 @@
 ### 🛠️ Technologies & Skills
 
 <p align="left">
-  <!-- Replace these with your actual tech stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" height="32" />
-  <!-- Add more icons as needed -->
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/EnvyL27">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvyL27&theme=dracula&locale=en&hide_border=false" alt="Ahmad Farrel's GitHub streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EnvyL27">
-    <img alt="Ahmad Farrel's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EnvyL27&show_icons=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="192px" />
-  </a>
-  <a href="https://github.com/EnvyL27">
-    <img alt="Ahmad Farrel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnvyL27&langs_count=8&layout=compact&theme=dracula&locale=en&hide_border=false" height="192px" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="32" height="32" />
 </p>
 
 ---
