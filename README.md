@@ -10,7 +10,7 @@
   I'm <b>Ahmad Farrel</b> 👋, a passionate developer, dedicated gamer, and enthusiastic sleep connoisseur 😴.
 </div>
 
----
+--- 
 
 ### 🌐 Portfolio
 
