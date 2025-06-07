@@ -2,9 +2,7 @@
   Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 </h1>
 
-<p align="center">
-  <img src="https://visitor-badge.deta.dev/badge?page_id=EnvyL27.EnvyL27" alt="Profile views" />
-</p>
+
 
 <div align="center" style="font-size: 24px; margin-bottom: 20px;">
   I'm <b>Ahmad Farrel</b> 👋, a passionate developer, dedicated gamer, and enthusiastic sleep connoisseur 😴.
