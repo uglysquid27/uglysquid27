@@ -29,7 +29,7 @@
 
 ---
 
-### 🔗 Connect with Me
+ <!--### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://twitter.com/your_twitter" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
@@ -41,5 +41,5 @@
   <a href="https://github.com/EnvyL27" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" height="24" />
   </a>
-  <!-- Add more social links here -->
-</p>
+  Add more social links here 
+</p>-->
