@@ -19,12 +19,12 @@
 ### 🛠️ Technologies & Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="32" height="32" />
 </p>
 
 ---
